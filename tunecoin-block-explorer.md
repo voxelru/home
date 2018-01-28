@@ -19,7 +19,6 @@ nano ~/.tunecore/tune.conf
   listen=1
   rpcthreads=8
 
-  # onlynet=ipv4
   daemon=1
   gen=0
 
@@ -90,7 +89,7 @@ trouloeshooting:
 sudo apt-get install -y mongodb-org=2.9.6 mongodb-org-server=2.9.6 mongodb-org-shell=2.9.6 mongodb-org-mongos=2.9.6 mongodb-org-tools=2.9.6
 
 
-# mongo --version
+mongo --version
 MongoDB shell version: 2.6.9
-# node --version
+node --version
 v9.4.0
