@@ -58,8 +58,8 @@ nano ./settings.json
   "wallet": {
     "host": "localhost",
     "port": 20724,
-    "user": "syrikx",
-    "pass": "landy84"
+    "user": "",
+    "pass": ""
   },
 
 
